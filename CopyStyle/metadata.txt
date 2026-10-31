@@ -1,0 +1,42 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.
+# Mandatory items:
+
+[general]
+name=CopyStyle
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Copy Vector Layer Style
+version=1.0
+author=Kevin Landolt
+email=qgis@klandolt.ch
+
+about=Einfach Toolbox zum Kopieren von Vektor Layer Stilisierung.
+
+tracker=https://github.com/klandolt/qgis-CopyStyle/issues
+repository=https://github.com/klandolt/qgis-CopyStyle
+license=MIT
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=https://github.com/klandolt/qgis-CopyStyle
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# If the plugin can run on QGIS Server.
+server=False
+
