@@ -8,11 +8,11 @@ name=CopyStyle
 qgisMinimumVersion=3.0
 qgisMaximumVersion=3.99
 description=Copy Vector Layer Style
-version=1.0
+version=2.0
 author=Kevin Landolt
 email=qgis@klandolt.ch
 
-about=Einfach Toolbox zum Kopieren von Vektor Layer Stilisierung.
+about=Simple toolbox for copying layer styling.
 
 tracker=https://github.com/klandolt/qgis-CopyStyle/issues
 repository=https://github.com/klandolt/qgis-CopyStyle
